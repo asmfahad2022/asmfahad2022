@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/fahadblog",
+    "prod_uri":"mysql://root:@localhost/fahadblog",
+    "tw_url":"https://twitter.com/fahadblog",
+    "fb_url":"https://facebook.com/fahadblog",
+    "gh_url": "https://github.com/fahadblog",
+    "fh_url": "Thought's Of Fahad",
+    "tag_line": "Information is Power",
+    "gmail-user":"fahadrahman810@gmail.com",
+    "gmail-password":"monforingergolpo1",
+    "about_text": "Hello,This Is Fahad.Welcome to My Blog.I Think This is the Best Source Of Information What You Need To Know.",
+    "no_of_posts":2,
+    "login_image":"login.svg",
+    "admin_user": "fahad",
+    "admin_password": "123",
+    "upload_location":"E:\\c,c++,py\\Web Development\\flask+Django\\Flask\\1st blog site\\static\\img"
+  }
+}
